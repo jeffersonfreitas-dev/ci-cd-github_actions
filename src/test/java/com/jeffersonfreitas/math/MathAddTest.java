@@ -12,7 +12,7 @@ public class MathAddTest {
 
     final Double result = MathAdd.add(a, b);
 
-    Assertions.assertEquals(result, 10);
+    Assertions.assertEquals(result, 20);
   }
   
 }
