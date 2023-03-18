@@ -9,4 +9,4 @@ jobs:
         with:
           distribution: 'temurin'
           java-version: '17'
-      - run: java App.java
+      - run: java com.jeffersonfreitas.App.java
